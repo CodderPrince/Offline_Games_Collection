@@ -237,7 +237,7 @@ Please follow Java coding standards and include documentation/comments.
 
 * Dept. of CSE, Begum Rokeya University, Rangpur, Bangladesh
 * GitHub: [https://github.com/CodderPrince](https://github.com/CodderPrince)
-* Contact: [replace\_this\_email@example.com](mailto:replace_this_email@example.com)
+* Contact: cse12105007brur@gmail.com
 
 ---
 
